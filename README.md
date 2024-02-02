@@ -107,24 +107,14 @@ From the plots below, it was interesting to find that whilst the top 10 viewed v
 When comparing the top 10 viewed videos vs top 10 videos based on sentiment, it was clear there was a large difference in the mean view count, from 1147724 vs 10770.
 
 ```python
-loo = pd.DataFrame(top10[['title','viewCount','sentiment_score','publishedAt','duration']])
-loo=loo.reset_index(drop=True)
-print(f'mean view count: {loo.viewCount.mean():.0f}')
-print(f'mean sentiment score: {loo.sentiment_score.mean():.2f}')
-print(f'mean duration: {loo.duration.mean():.0f}')
-
- Output:
+ Top 10 Viewed Videos Output:
  mean view count: 1147724
  mean sentiment score: 0.14
  mean duration: 3068
+```
 
-lool = pd.DataFrame(top10_sent[['title','viewCount','sentiment_score','publishedAt','duration']])
-lool=lool.reset_index(drop=True)
-print(f'mean view count: {lool.viewCount.mean():.0f}')
-print(f'mean sentiment score: {lool.sentiment_score.mean():.2f}')
-print(f'mean duration: {lool.duration.mean():.0f}')
-
- Output:
+```python
+ Top 10 Videos base on sentiment Output:
  mean view count: 10770
  mean sentiment score: 1.00
  mean duration: 1094
