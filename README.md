@@ -7,23 +7,30 @@
 1. [Introduction](#introduction)
    1.1 [Aims, Objectives, and Background](#aims-objectives-and-background)
 
+
 2. [EDA & Insights](#eda-and-insights)
+
    2.1 [Video Metrics](#video-metrics)
    
    2.2 [Subscriber Count](#subscriber-count)
    
-   2.3 [Top 10 Viewed Videos](#top-10-viewed-videos)
+   2.3 [Top 10 Viewed Videos](#top-10-viewed)
    
    2.4 [Upload Schedule](#upload-schedule)
    
    2.5 [Relationship of Likes/Comments vs View](#relationship-of-likes-comments-vs-view)
    
    2.6 [Sentiment Analysis](#sentiment-analysis)
-       - [Popular Themes](#popular-themes)
-       - [Top 10 Videos Based on Their Sentiment Scores](#top-10-sent)
-       - [Inquiries in Comments](#inquiries-in-comments)
-       - [Decrypto Board Game](#decrypto)
-       - [Choosing 2 Channels to Follow](#choosing-2-channels)
+
+      - [Popular Themes](#popular-themes)
+      
+      - [Top 10 Videos Based on Their Sentiment Scores](#top-10-sent)
+      
+      - [Inquiries in Comments](#inquiries-in-comments)
+      
+      - [Decrypto Board Game](#decrypto)
+      
+      - [Choosing 2 Channels to Follow](#choosing-2-channels)
 
 4. [Conclusion](#conclusion)
 
