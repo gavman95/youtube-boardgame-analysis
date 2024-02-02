@@ -7,7 +7,7 @@
    2.1 [Video Metrics](#video-metrics)
    2.2 [Subscriber Count](#subscriber-count)
    2.3 [Upload Schedule](#upload-schedule)
-   2.4 [Relationship of likes/comments vs view](#Relationship-of-likes/comments-vs-view)
+   2.4 [Relationship of likes/comments vs view](#relationship-of-likes-comments-vs-view)
    2.5 [Sentiment Analysis](#sentiment-analysis)
    2.6 [Popular Themes](#popular-themes)
    2.7 [Inquiries in Comments](#inquiries-in-comments)
@@ -59,7 +59,7 @@ Just to get things started off, I wanted to create a plot of the channels and th
 From the below visualisation, its interesting to see the different variety in the upload schedule of diiferent channels. For example Actualol mostly uploads their videos on weekdays, especially on Wednesday being the peak and closely followed by Thursday. Barely any videos are uploaded on the weekend, with just a few on Sunday. For The Dice Tower its a bit different with there quite being of an even spread in which days videos are uploaded, for example Tuesday, Wednesday, Thursday, Friday & Saturday all have similar number of uploads in the channels history. This could be as a result of change of upload schedule over time with The Dice Tower first upload in the year 2014. On the other hand, No Rolls Barred is the most recent channel to be set up (in 2020) compared to the other 4, and its upload schedule is distinct, with the majority of uploads occuring on Tuesday & Saturday. Finally, for Good Time Society, most uploads occured on Tuesday and then history of uploads drop each day.
 ![image](https://github.com/gavman95/youtube-boardgame-analysis/assets/51774640/f5611c61-b23f-47d3-bd96-2efb6da4e072)
 
-### Relationship between number of likes or comments vs number of views views? <a name="Relationship-of-likes/comments-vs-view"></a>
+### Relationship between number of likes or comments vs number of views views? <a name="relationship-of-likes-comments-vs-view"></a>
 
 From the below observation, the next thing I wanted to explore was whether number of likes or comments correlate with how many views a video reaches. From the scatterplots below, it can be seen that the number of views is strongly correlated with the number of comments/ likes of the video. The more number of likes or comments in a video, likely the more views. This is expected as with a larger audience size, there is the tendency for more engagement in a video.
 ![image](https://github.com/gavman95/youtube-boardgame-analysis/assets/51774640/0344821e-8527-490f-aefc-01e3d698f301)
