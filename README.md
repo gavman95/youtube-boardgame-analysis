@@ -3,9 +3,11 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
+
+   
    1.1 [Aims, Objectives, and Background](#aims-objectives-and-background)
 
-2. [EDA & Insights](#eda-and-insights)
+3. [EDA & Insights](#eda-and-insights)
    2.1 [Video Metrics](#video-metrics)
    2.2 [Subscriber Count](#subscriber-count)
    2.3 [Top 10 Viewed Videos](#top-10-viewed-videos)
@@ -18,7 +20,7 @@
        2.6.4 [Decrypto Board Game](#decrypto-board-game)
        2.6.5 [Choosing 2 Channels to Follow](#choosing-2-channels-to-follow)
 
-3. [Conclusion](#conclusion)
+4. [Conclusion](#conclusion)
 
 ## Introduction <a name="introduction"></a>
 
