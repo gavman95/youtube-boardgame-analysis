@@ -55,6 +55,9 @@ Within this project, I would like to explore the following:
   * What inquiries are being posed in the comment sections of the videos?
   * How have the videos exploring the game Decrypto been received by viewers based on the comments?
 
+**Aim** After exploring these topics, my end goal would be to help identify the best 2 channels I preferably would follow.
+
+
 ## EDA & Insights <a name="eda-and-insights"></a>
 
 ### Video Metrics <a name="video-metrics"></a>
