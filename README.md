@@ -20,16 +20,12 @@
    
    2.6 [Sentiment Analysis](#sentiment-analysis)
        - [Popular Themes](#popular-themes)
-       
-       - [Top 10 Videos Based on Their Sentiment Scores](#top-10-videos-based-on-their-sentiment-scores)
-       
+       - [Top 10 Videos Based on Their Sentiment Scores](#top-10-sent)
        - [Inquiries in Comments](#inquiries-in-comments)
-       
-       - [Decrypto Board Game](#decrypto-board-game)
-       
-       - [Choosing 2 Channels to Follow](#choosing-2-channels-to-follow)
+       - [Decrypto Board Game](#decrypto)
+       - [Choosing 2 Channels to Follow](#choosing-2-channels)
 
-3. [Conclusion](#conclusion)
+4. [Conclusion](#conclusion)
 
 ## Introduction <a name="introduction"></a>
 
