@@ -1,6 +1,6 @@
 # Exploratory Data Analysis (EDA) of 4 Board Game Youtube Channels
 
-## Table of Contents
+## Table of Contents 
 
 1. [Introduction](#introduction)
 
