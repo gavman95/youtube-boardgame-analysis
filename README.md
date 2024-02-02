@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 1. [Introduction](#introduction)
    1.1 [Aims, Objectives, and Background](#aims-objectives-and-background)
 
