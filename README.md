@@ -2,8 +2,9 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
+## Table of Contents
 
+1. [Introduction](#introduction)
    1.1 [Aims, Objectives, and Background](#aims-objectives-and-background)
 
 2. [EDA & Insights](#eda-and-insights)
@@ -18,15 +19,15 @@
    2.5 [Relationship of Likes/Comments vs View](#relationship-of-likes-comments-vs-view)
    
    2.6 [Sentiment Analysis](#sentiment-analysis)
-       2.6.1 [Popular Themes](#popular-themes)
+       - [Popular Themes](#popular-themes)
        
-       2.6.2 [Top 10 Videos Based on Their Sentiment Scores](#top-10-videos-based-on-their-sentiment-scores)
+       - [Top 10 Videos Based on Their Sentiment Scores](#top-10-videos-based-on-their-sentiment-scores)
        
-       2.6.3 [Inquiries in Comments](#inquiries-in-comments)
+       - [Inquiries in Comments](#inquiries-in-comments)
        
-       2.6.4 [Decrypto Board Game](#decrypto-board-game)
+       - [Decrypto Board Game](#decrypto-board-game)
        
-       2.6.5 [Choosing 2 Channels to Follow](#choosing-2-channels-to-follow)
+       - [Choosing 2 Channels to Follow](#choosing-2-channels-to-follow)
 
 3. [Conclusion](#conclusion)
 
