@@ -42,7 +42,7 @@ Within this project, I would like to explore the following:
 
 ### Subscriber Count <a name="subscriber-count"></a>
 
-<!-- Just to get things started off, I wanted to create a plot of the channels and their subscribers count. As we can see, The Dice Tower is the most followed channel at 334K, followed by No Rolls Barred at 320K, then Actualol at 106K, with Good Time Society being the least followed out of the four channels at 58.1K.
+Just to get things started off, I wanted to create a plot of the channels and their subscribers count. As we can see, The Dice Tower is the most followed channel at 334K, followed by No Rolls Barred at 320K, then Actualol at 106K, with Good Time Society being the least followed out of the four channels at 58.1K.
 
 ```python
 from matplotlib.ticker import FuncFormatter
@@ -51,7 +51,7 @@ fig, axes = plt.subplots(figsize=(10,5))
 ax = sns.barplot(x='channel_name', y='total_subscribers', data=stats.sort_values('total_subscribers', ascending=False))
 ax.yaxis.set_major_formatter(FuncFormatter(lambda x, pos: '{:,.0f}'.format(x/1000) + 'K'))
 plot = ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
-plt.show() -->
+plt.show()
 
 ### Upload Schedule <a name="upload-schedule"></a>
 
