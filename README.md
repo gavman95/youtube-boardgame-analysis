@@ -23,3 +23,7 @@ Playing board games is one of my favourite hobbies when spending time with frien
   * How has the videos exploring the game Decrypto received by viewers based of the comments?
 
 After exploring these topics, my end goal would be to help identify the best 2 channels I preferrably would follow
+
+2. EDA
+
+![image](https://github.com/gavman95/youtube-boardgame-analysis/assets/51774640/2b8878ad-0ea7-4865-8565-ec3daede4785)
