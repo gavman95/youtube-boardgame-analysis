@@ -3,6 +3,7 @@
 ## Table of Contents
 
 1. [Introduction](#introduction)
+
    1.1 [Aims, Objectives, and Background](#aims-objectives-and-background)
 
 
@@ -30,7 +31,7 @@
       
       - [Choosing 2 Channels to Follow](#choosing-2-channels)
 
-4. [Conclusion](#conclusion)
+3. [Conclusion](#conclusion)
 
 ## Introduction <a name="introduction"></a>
 
