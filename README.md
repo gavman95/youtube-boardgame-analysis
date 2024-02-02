@@ -38,20 +38,20 @@ Within this project, I would like to explore the following:
 
 ### Video Metrics <a name="video-metrics"></a>
 
-<!-- Include analysis of video metrics such as likes, comments, and views. -->
+| channel_name       | description                                           | total_views | total_uploads | total_subscribers | channel_unique_playlist_id |
+|--------------------|-------------------------------------------------------|-------------|---------------|-------------------|-----------------------------|
+| Good Time Society   | Welcome to Good Time Society! Stick around awh...    | 4559173     | 553           | 58100             | UUBRTbbK-avyRJSSJ2GyHs_w    |
+| The Dice Tower      | Video reviews of games, top 10 lists, live pla...    | 332478165   | 23180         | 334000            | UUiwBbXQlljGjKtKhcdMliRA   |
+| No Rolls Barred     | Welcome to the Official No Rolls Barred YouTub...    | 57216291    | 365           | 320000            | UU5UQPZe-8v4_UP1uxi4Mv6A   |
+| Actualol            | Board game reviews with a sense of humour.           | 8584495     | 189           | 106000            | UUO-hn9MJOu7pOUdGSabKGvA   |
+
 
 ### Subscriber Count <a name="subscriber-count"></a>
 
 Just to get things started off, I wanted to create a plot of the channels and their subscribers count. As we can see, The Dice Tower is the most followed channel at 334K, followed by No Rolls Barred at 320K, then Actualol at 106K, with Good Time Society being the least followed out of the four channels at 58.1K.
 
-```python
-from matplotlib.ticker import FuncFormatter
-# Create a function to format the y-axis labels in thousands
-fig, axes = plt.subplots(figsize=(10,5))
-ax = sns.barplot(x='channel_name', y='total_subscribers', data=stats.sort_values('total_subscribers', ascending=False))
-ax.yaxis.set_major_formatter(FuncFormatter(lambda x, pos: '{:,.0f}'.format(x/1000) + 'K'))
-plot = ax.set_xticklabels(ax.get_xticklabels(), rotation=90)
-plt.show()
+![image](https://github.com/gavman95/youtube-boardgame-analysis/assets/51774640/ebbe76d6-d624-4da7-aaae-d38562fa98e9)
+
 
 ### Upload Schedule <a name="upload-schedule"></a>
 
